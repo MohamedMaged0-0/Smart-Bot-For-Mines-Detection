@@ -14,4 +14,4 @@ Hardware components:
 - A buzzer 5V
 - Motor Driver L298N Module For Arduino
 - Servo Motor MG996R Metal Gear 180 Degree
-- - Flexible Shaft Coupler 
+- Flexible Shaft Coupler 
